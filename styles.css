@@ -2,7 +2,11 @@
 thead{
 	background-color:blue
 }
-div{
-	borger-radius:500px
-	background-color:blue;
+
+	div{
+  background-color:yellow;
+  width:500px;
+ border-radius:10px
 }
+
+
