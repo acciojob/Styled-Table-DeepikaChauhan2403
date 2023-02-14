@@ -1,12 +1,16 @@
 /* your code */
 thead{
-	background-color:blue
+	background-color:blue;
 }
 
-	div{
-  background-color:yellow;
-  width:500px;
- border-radius:10px
+div{
+    background-color:lightgray;
+    width:500px;
+    border-radius:10px
+}
+
+.rowtochange{
+	background-color:grey;
 }
 
 
